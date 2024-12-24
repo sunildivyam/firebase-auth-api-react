@@ -4,5 +4,4 @@ In this project, I'll show you how to add user login feature to your Express.js 
 
 YouTube Video: https://youtu.be/UBcOc6VxO_w
 
-[![YouTube Video](https://img.youtube.com/vi/UBcOc6VxO_w/0.jpg)](https://www.youtube.com/watch?v=UBcOc6VxO_w "Everything Is AWESOME")
-
+[![YouTube Video](./thumb.png)](https://www.youtube.com/watch?v=UBcOc6VxO_w "Everything Is AWESOME")
